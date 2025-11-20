@@ -49,7 +49,6 @@ while True:
         left = Position + 1
     else:
         right = Position
-        Position -= 1
     
     if left==right:
         break
